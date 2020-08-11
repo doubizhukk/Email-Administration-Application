@@ -1,13 +1,14 @@
 # Email Administration Application
 ## Overview
-An appplication creating email accounts and password for new hires based on their names and departments. Below are some features of the application:   
+An application creating email accounts and password for new hires based on their names and departments. Below are some key features of the application:   
    
-* Generate an email with the following syntx: firstname.lastname@department.company.com.   
+* Generating an email with the following syntx:   
+firstname.lastname@department.company.com.   
    
-* Determing the departments(sales, development, accounting), default is Blank. 
+* Determining the departments(sales, development, accounting), default is Blank. 
    
-* Generate a random String for a password.   
+* Generating a random String for a password.   
    
-* The Set methods can change the password, set the mailbox capacity, and define an alternate email address.   
+* The Set methods are used to change the password, set the mailbox capacity, and define an alternate email address.   
    
-* The Get methods can display the password, alternate email address and mailbox capacity.
+* The Get methods are used to display the password, alternate email address, and mailbox capacity.
